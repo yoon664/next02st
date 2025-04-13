@@ -14,6 +14,10 @@ import Framer03 from "./framer/framer03";
 import Framer04 from "./framer/framer04";
 import Framer05 from "./framer/framer05";
 import Framer06 from "./framer/framer06";
+import Framer07 from "./framer/framer07";
+import Framer08 from "./framer/framer08";
+import Framer09 from "./framer/framer09";
+import Framer10 from "./framer/framer10";
 
 /*
   [ 스크롤트리거 플러그인 등록 ]
@@ -37,7 +41,11 @@ export default function Home() {
     {/* <Framer03 /> */}
     {/* <Framer04 /> */}
     {/* <Framer05 /> */}
-    <Framer06 />
+    {/* <Framer06 /> */}
+    {/* <Framer07 /> */}
+    {/* <Framer08 /> */}
+    {/* <Framer09 /> */}
+    <Framer10 />
 
   </>;
 }

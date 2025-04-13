@@ -1,4 +1,5 @@
 import React from "react";
+import { motion, useScroll, useTransform } from 'framer-motion';
 
 const colors = [
   "bg-red-500",
