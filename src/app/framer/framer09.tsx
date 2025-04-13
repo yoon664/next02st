@@ -22,7 +22,7 @@ const Framer09 = () => {
               <div className="w-full h-full bg-gradient-to-r from-blue-500 to-purple-500 rounded-xl flex items-center justify-start px-20">
                 <h2 className="text-white text-2xl md:text-6xl font-bold">
                   긴 섹션 내용이 여기에 들어갑니다. 스크롤하여 더 많은 내용을
-                  확인하세요.ㅇ
+                  확인하세요.
                 </h2>
               </div>
             </div>
