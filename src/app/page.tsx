@@ -6,6 +6,8 @@ import Lenis01 from "./lenis/lenis";
 import Observer01 from "./lenis/observer01";
 import Horizontal from "./lenis/horizontal";
 import Gsap01 from "./gsap/gsap01";
+import Gsap02 from "./gsap/gsap02";
+import Gsap03 from "./gsap/gsap03";
 
 /*
   [ 스크롤트리거 플러그인 등록 ]
@@ -21,7 +23,9 @@ export default function Home() {
     {/* <Lenis01 /> */}
     {/* <Observer01 /> */}
     {/* <Horizontal /> */}
-    <Gsap01 />
+    {/* <Gsap01 /> */}
+    {/* <Gsap02 /> */}
+    <Gsap03 />
 
   </>;
 }
